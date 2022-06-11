@@ -7,7 +7,7 @@ This is solution of frontend-developer test task:
 
 ## Features
 
-React / Redux / Typescript / browser-routing / login / hooks / formik / styled-components
+React / Redux / Typescript / browser-routing / login / hooks / formik / styled-components / flexbox / adaptive layout
 
 # This is GitHub Pages deployed
 
