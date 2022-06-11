@@ -1,0 +1,15 @@
+/* Header.css was created to display the correct active page */
+.navItem {
+    display: flex;
+    align-items: center;
+    margin: 0 10px;
+    padding: 5px;
+    height: 30px;
+    font-weight: 600;
+}
+.navItem a {
+    color: inherit;
+}
+.navItem a.active, a.hover {
+    color: black;
+}
