@@ -35,7 +35,7 @@ export const Content = styled.main<ContentProps>`
   align-items: ${props => props.align};
   flex-direction: column;
   top: 10px;
-  height: 500px;
+  height: 80vh;
   @media ${devices.mobile} {width: ${sizes.mobile}}
   @media ${devices.tablet} {width: ${sizes.tablet}}
   @media ${devices.laptop} {width: ${sizes.laptop}}
@@ -61,7 +61,7 @@ export const Frame = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
-  height: 496px;
+  height: calc(100% - 4px);
   width: calc(100% - 4px);
   border-radius: 1em;
   box-shadow: inset 0 -2px 6px 0 hsla(0, 0%, 0%, 0.2);

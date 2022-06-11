@@ -41,8 +41,8 @@ export default createGlobalStyle`
     position: absolute;
     top: 110px;
     font-weight: 900;
-    @media ${devices.mobile} {top: 120px; font-size: 58px}
-    @media ${devices.tablet} {top: 110px; font-size: 100px}
+    @media ${devices.mobile} {top: 160px; font-size: 58px}
+    @media ${devices.tablet} {top: 140px; font-size: 100px}
   }
   h2, h3, h4 {
     margin: 10px 0;
@@ -63,6 +63,7 @@ export default createGlobalStyle`
     color: ${colors.font};
   }
   h5 {
+    margin: 10px 0 5px 0;
     font-size: 16px;
   }
 `
