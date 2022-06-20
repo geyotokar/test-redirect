@@ -1,7 +1,7 @@
 # Welcome to redirect-test App
 
-This is solution of frontend-developer test task: ![](https://img.shields.io/badge/-login-00A98F?style=flat-square) & 
-![](https://img.shields.io/badge/-redirect-00A98F?style=flat-square) & ![](https://img.shields.io/badge/-privateRouting-00A98F?style=flat-square)
+This is solution of frontend-developer test task: ![](https://img.shields.io/badge/-login-00A98F?style=for-the-badge) 
+![](https://img.shields.io/badge/-redirect-00A98F?style=for-the-badge) ![](https://img.shields.io/badge/-privateRouting-00A98F?style=for-the-badge)
 
 ![Header](https://github.com/geyotokar/test-redirect/blob/main/src/assets/images/Redirect.png)
 
