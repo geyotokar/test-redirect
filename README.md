@@ -1,20 +1,15 @@
 # Welcome to redirect-test App
 
-This is solution of frontend-developer test task:
-- login
-- redirect
-- private routing
+This is solution of frontend-developer test task: ![](https://img.shields.io/badge/-login-00A98F?style=flat-square) & 
+![](https://img.shields.io/badge/-redirect-00A98F?style=flat-square) & ![](https://img.shields.io/badge/-privateRouting-00A98F?style=flat-square)
 
 ![Header](https://github.com/geyotokar/test-redirect/blob/main/src/assets/images/Redirect.png)
 
-# This is GitHub Pages deployed
+## This is GitHub Pages deployed
 
 View the deployed project: [https://geyotokar.github.io/test-redirect/](https://geyotokar.github.io/test-redirect/)
 
-
-browser-routing / login / hooks / styled-components / flexbox / adaptive layout
-
-## Tools and Features:
+### Tools and Features:
 ![Typescript](https://img.shields.io/badge/-Typescript-0E34A0?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-FF4747?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-DA2864?style=for-the-badge&logo=redux)
